@@ -1,0 +1,6 @@
+c:\users\josephwa.sdcg1\documents\visual studio 2015\Projects\swchallenge\swlibrary\bin\Debug\swlibrary.dll
+c:\users\josephwa.sdcg1\documents\visual studio 2015\Projects\swchallenge\swlibrary\bin\Debug\swlibrary.pdb
+c:\users\josephwa.sdcg1\documents\visual studio 2015\Projects\swchallenge\swlibrary\bin\Debug\Newtonsoft.Json.dll
+c:\users\josephwa.sdcg1\documents\visual studio 2015\Projects\swchallenge\swlibrary\bin\Debug\Newtonsoft.Json.xml
+c:\users\josephwa.sdcg1\documents\visual studio 2015\Projects\swchallenge\swlibrary\obj\Debug\swlibrary.dll
+c:\users\josephwa.sdcg1\documents\visual studio 2015\Projects\swchallenge\swlibrary\obj\Debug\swlibrary.pdb

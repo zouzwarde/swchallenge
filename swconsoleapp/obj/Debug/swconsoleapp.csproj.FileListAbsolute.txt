@@ -1,0 +1,13 @@
+c:\users\josephwa.sdcg1\documents\visual studio 2015\Projects\swchallenge\swconsoleapp\bin\Debug\swconsoleapp.exe.config
+c:\users\josephwa.sdcg1\documents\visual studio 2015\Projects\swchallenge\swconsoleapp\obj\Debug\swconsoleapp.csprojResolveAssemblyReference.cache
+c:\users\josephwa.sdcg1\documents\visual studio 2015\Projects\swchallenge\swconsoleapp\bin\Debug\swconsoleapp.exe
+c:\users\josephwa.sdcg1\documents\visual studio 2015\Projects\swchallenge\swconsoleapp\bin\Debug\swconsoleapp.pdb
+c:\users\josephwa.sdcg1\documents\visual studio 2015\Projects\swchallenge\swconsoleapp\bin\Debug\Autofac.dll
+c:\users\josephwa.sdcg1\documents\visual studio 2015\Projects\swchallenge\swconsoleapp\bin\Debug\swlibrary.dll
+c:\users\josephwa.sdcg1\documents\visual studio 2015\Projects\swchallenge\swconsoleapp\bin\Debug\Newtonsoft.Json.dll
+c:\users\josephwa.sdcg1\documents\visual studio 2015\Projects\swchallenge\swconsoleapp\bin\Debug\swlibrary.pdb
+c:\users\josephwa.sdcg1\documents\visual studio 2015\Projects\swchallenge\swconsoleapp\bin\Debug\Autofac.pdb
+c:\users\josephwa.sdcg1\documents\visual studio 2015\Projects\swchallenge\swconsoleapp\bin\Debug\Autofac.xml
+c:\users\josephwa.sdcg1\documents\visual studio 2015\Projects\swchallenge\swconsoleapp\bin\Debug\Newtonsoft.Json.xml
+c:\users\josephwa.sdcg1\documents\visual studio 2015\Projects\swchallenge\swconsoleapp\obj\Debug\swconsoleapp.exe
+c:\users\josephwa.sdcg1\documents\visual studio 2015\Projects\swchallenge\swconsoleapp\obj\Debug\swconsoleapp.pdb
