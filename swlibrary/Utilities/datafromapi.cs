@@ -86,7 +86,6 @@ namespace swlibrary.Utilities
             }
 
             return shipsresult;
-            ;
         }
     }
 }

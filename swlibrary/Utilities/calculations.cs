@@ -34,7 +34,6 @@ namespace swlibrary.Utilities
                 arrconsumables = strcunsumables.Split(default(Char[]));
                 ///getting the value as integer 
                 int valueconsumables = Convert.ToInt32(arrconsumables[0]);
-                string x;
 
                 ///defining from the unit the number of hours
                 switch (arrconsumables[1])
@@ -84,6 +83,10 @@ namespace swlibrary.Utilities
                 if (speed != 0)
                 {
                     duration = dbldistance / speed;
+                }else
+                {
+                    nbstops = -1;
+                    return nbstops;
                 }
 
                 ///checking that consumablesduration is not 0 because we are deviding by the consumablesduration
@@ -100,6 +103,10 @@ namespace swlibrary.Utilities
                             nbstops++;
                         }
                     }
+                }else
+                {
+                    nbstops = -1;
+                    return nbstops;
                 }
 
             }

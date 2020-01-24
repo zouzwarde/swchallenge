@@ -55,7 +55,7 @@ namespace swlibrary.Utilities
         /// <param name="nbstops">the number of stops as integer</param>
         public void displaylistshipandstop(starship ship, int nbstops)
         {
-            displaymessage($"ship \"{ ship.name }\" needs { nbstops } stops to complete its journey;", "success");
+            displaymessage(ship.name + ": " + nbstops, "success");
         }
     }
 }

@@ -11,3 +11,16 @@ c:\users\josephwa.sdcg1\documents\visual studio 2015\Projects\swchallenge\swcons
 c:\users\josephwa.sdcg1\documents\visual studio 2015\Projects\swchallenge\swconsoleapp\bin\Debug\Newtonsoft.Json.xml
 c:\users\josephwa.sdcg1\documents\visual studio 2015\Projects\swchallenge\swconsoleapp\obj\Debug\swconsoleapp.exe
 c:\users\josephwa.sdcg1\documents\visual studio 2015\Projects\swchallenge\swconsoleapp\obj\Debug\swconsoleapp.pdb
+C:\Users\zouz\Source\Repos\zouzwarde\swchallenge\swconsoleapp\bin\Debug\swconsoleapp.exe.config
+C:\Users\zouz\Source\Repos\zouzwarde\swchallenge\swconsoleapp\obj\Debug\swconsoleapp.exe
+C:\Users\zouz\Source\Repos\zouzwarde\swchallenge\swconsoleapp\obj\Debug\swconsoleapp.pdb
+C:\Users\zouz\Source\Repos\zouzwarde\swchallenge\swconsoleapp\bin\Debug\swconsoleapp.exe
+C:\Users\zouz\Source\Repos\zouzwarde\swchallenge\swconsoleapp\bin\Debug\swconsoleapp.pdb
+C:\Users\zouz\Source\Repos\zouzwarde\swchallenge\swconsoleapp\bin\Debug\Autofac.dll
+C:\Users\zouz\Source\Repos\zouzwarde\swchallenge\swconsoleapp\bin\Debug\swlibrary.dll
+C:\Users\zouz\Source\Repos\zouzwarde\swchallenge\swconsoleapp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\zouz\Source\Repos\zouzwarde\swchallenge\swconsoleapp\bin\Debug\swlibrary.pdb
+C:\Users\zouz\Source\Repos\zouzwarde\swchallenge\swconsoleapp\bin\Debug\Autofac.pdb
+C:\Users\zouz\Source\Repos\zouzwarde\swchallenge\swconsoleapp\bin\Debug\Autofac.xml
+C:\Users\zouz\Source\Repos\zouzwarde\swchallenge\swconsoleapp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\zouz\Source\Repos\zouzwarde\swchallenge\swconsoleapp\obj\Debug\swconsoleapp.csprojResolveAssemblyReference.cache

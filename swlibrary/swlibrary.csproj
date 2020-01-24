@@ -48,11 +48,6 @@
     <Compile Include="Ibusinesslogic.cs" />
     <Compile Include="Models\starship.cs" />
     <Compile Include="Models\starships.cs" />
-    <Compile Include="Models\swset.cs" />
-    <Compile Include="Models\swsingle.cs" />
-    <Compile Include="Models\swsinglename.cs" />
-    <Compile Include="Models\vehicle.cs" />
-    <Compile Include="Models\vehiculeship.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Utilities\calculations.cs" />
     <Compile Include="Utilities\datafromapi.cs" />
