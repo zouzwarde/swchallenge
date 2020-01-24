@@ -93,7 +93,14 @@ namespace swlibrary.Utilities
                 ///calculating the length in hours of the consumables
                 consumablesduration = getdurabilityofconsumableinhours(strconsumables);
                 ///converting speed saved in the object to number
-                speed = Convert.ToDecimal(strspeed);
+                try
+                {
+                    speed = Convert.ToDecimal(strspeed);
+                }catch(Exception ex)
+                {
+                    return -1;
+                }
+                
                 ///checking that speed is not 0 because we are deviding by the speed
                 ///calculating the duration of the travel by deviding the distance by the speed to get the duration in hours
                 if (speed != 0)
