@@ -14,12 +14,9 @@ namespace swtestunit
         public static Autofac.IContainer Configure()
         {
             ContainerBuilder builder = new ContainerBuilder();
-            
-            builder.RegisterType<businesslogic>().As<Ibusinesslogic>();
 
             builder.RegisterType<calculations>().As<Icalculations>();
             builder.RegisterType<datafromapi>().As<Idatafromapi>();
-            builder.RegisterType<display>().As<Idisplay>();
 
             return builder.Build();
         }
