@@ -22,18 +22,34 @@ namespace swlibrary.Utilities
         {
             string[] arrconsumables;
             decimal nbhours = 0;
+            int valueconsumables = 0;
+
             ///if unknown return 0
-            if (strcunsumables == "unknown")
+            if (strcunsumables == "unknown" || strcunsumables == null)
             {
                 nbhours = 0;
             }
             else
             {
+                ///remove spaces from string
+                strcunsumables = strcunsumables.Trim();
+
                 ///if it is not unknown then we will split the string in 2 the unit and the value, delimiter ' ' empty space
                 ///it will be an array of 2 dimensions the first for the value and the second for the unit
                 arrconsumables = strcunsumables.Split(default(Char[]));
+
+                ///remove empty spaces
+                arrconsumables = arrconsumables.Where(a=>a.Trim() != "").ToArray<string>();
+
                 ///getting the value as integer 
-                int valueconsumables = Convert.ToInt32(arrconsumables[0]);
+                try
+                {
+                    valueconsumables = Convert.ToInt32(arrconsumables[0]);
+                }
+                catch (Exception ex)
+                {
+                    return 0;
+                }
 
                 ///defining from the unit the number of hours
                 switch (arrconsumables[1])

@@ -1,0 +1,11 @@
+C:\Users\zouz\Source\Repos\zouzwarde\swchallenge\swtestunit\obj\Debug\swtestunit.csprojResolveAssemblyReference.cache
+C:\Users\zouz\Source\Repos\zouzwarde\swchallenge\swtestunit\bin\Debug\swtestunit.dll
+C:\Users\zouz\Source\Repos\zouzwarde\swchallenge\swtestunit\bin\Debug\swtestunit.pdb
+C:\Users\zouz\Source\Repos\zouzwarde\swchallenge\swtestunit\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\zouz\Source\Repos\zouzwarde\swchallenge\swtestunit\bin\Debug\swlibrary.dll
+C:\Users\zouz\Source\Repos\zouzwarde\swchallenge\swtestunit\bin\Debug\swlibrary.pdb
+C:\Users\zouz\Source\Repos\zouzwarde\swchallenge\swtestunit\obj\Debug\swtestunit.dll
+C:\Users\zouz\Source\Repos\zouzwarde\swchallenge\swtestunit\obj\Debug\swtestunit.pdb
+C:\Users\zouz\Source\Repos\zouzwarde\swchallenge\swtestunit\bin\Debug\Autofac.dll
+C:\Users\zouz\Source\Repos\zouzwarde\swchallenge\swtestunit\bin\Debug\Autofac.pdb
+C:\Users\zouz\Source\Repos\zouzwarde\swchallenge\swtestunit\bin\Debug\Autofac.xml
