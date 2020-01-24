@@ -69,5 +69,15 @@ namespace swtestunit
             //assert
             Assert.AreEqual(8760, dblnbhours);
         }
+
+        [TestMethod]
+        public void testcunsumableconversiontohours_2year()
+        {
+            //act
+            decimal dblnbhours = cal.getdurabilityofconsumableinhours("2 year");
+
+            //assert
+            Assert.AreEqual(17520, dblnbhours);
+        }
     }
 }
