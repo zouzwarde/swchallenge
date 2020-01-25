@@ -40,6 +40,10 @@
       <HintPath>..\packages\Autofac.4.9.4\lib\net45\Autofac.dll</HintPath>
       <Private>True</Private>
     </Reference>
+    <Reference Include="Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.12.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
     <Reference Include="swlibrary">
       <HintPath>..\swlibrary\obj\Debug\swlibrary.dll</HintPath>
     </Reference>
@@ -60,6 +64,7 @@
   <ItemGroup>
     <Compile Include="calculationstests.cs" />
     <Compile Include="ContainerConfig.cs" />
+    <Compile Include="getdatatests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

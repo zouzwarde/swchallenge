@@ -132,6 +132,10 @@ namespace swlibrary.Utilities
                     return nbstops;
                 }
 
+            }else
+            ///no parameters
+            {
+                nbstops = -2000;
             }
 
             return nbstops;

@@ -54,7 +54,7 @@ namespace swlibrary
                 {
                     ///calculating the number of stops
                     nbstops = _calc.getnumberofstops(distance, ship.MGLT, ship.consumables);
-                    if (nbstops != -1)
+                    if (nbstops > -1)
                     {
                         ///displaying the results
                         _disp.displaylistshipandstop(ship, nbstops);

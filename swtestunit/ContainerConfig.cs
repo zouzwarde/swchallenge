@@ -17,6 +17,7 @@ namespace swtestunit
 
             builder.RegisterType<calculations>().As<Icalculations>();
             builder.RegisterType<datafromapi>().As<Idatafromapi>();
+            builder.RegisterType<display>().As<Idisplay>();
 
             return builder.Build();
         }

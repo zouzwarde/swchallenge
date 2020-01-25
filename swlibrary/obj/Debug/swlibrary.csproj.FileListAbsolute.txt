@@ -8,6 +8,5 @@ C:\Users\zouz\Source\Repos\zouzwarde\swchallenge\swlibrary\bin\Debug\swlibrary.d
 C:\Users\zouz\Source\Repos\zouzwarde\swchallenge\swlibrary\bin\Debug\swlibrary.pdb
 C:\Users\zouz\Source\Repos\zouzwarde\swchallenge\swlibrary\bin\Debug\Newtonsoft.Json.dll
 C:\Users\zouz\Source\Repos\zouzwarde\swchallenge\swlibrary\bin\Debug\Newtonsoft.Json.xml
-C:\Users\zouz\Source\Repos\zouzwarde\swchallenge\swlibrary\obj\Debug\swlibrary.csprojResolveAssemblyReference.cache
 C:\Users\zouz\Source\Repos\zouzwarde\swchallenge\swlibrary\obj\Debug\swlibrary.dll
 C:\Users\zouz\Source\Repos\zouzwarde\swchallenge\swlibrary\obj\Debug\swlibrary.pdb

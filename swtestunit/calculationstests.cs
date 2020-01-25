@@ -187,7 +187,7 @@ namespace swtestunit
             int nbstops = cal.getnumberofstops(0, null, null);
 
             //assert
-            Assert.AreEqual(0, nbstops);
+            Assert.AreEqual(-2000, nbstops);
         }
 
         [TestMethod]
@@ -201,13 +201,73 @@ namespace swtestunit
         }
 
         [TestMethod]
-        public void testnumberstops_rmptyspeednullconsumables()
+        public void testnumberstops_emptyspeednullconsumables()
         {
             //act
             int nbstops = cal.getnumberofstops(1000, "", null);
 
             //assert
             Assert.AreEqual(-1, nbstops);
+        }
+
+        [TestMethod]
+        public void testnumberstops_nullconsumables()
+        {
+            //act
+            int nbstops = cal.getnumberofstops(1000, "500", null);
+
+            //assert
+            Assert.AreEqual(-1, nbstops);
+        }
+
+        [TestMethod]
+        public void testnumberstops_emptyspeed()
+        {
+            //act
+            int nbstops = cal.getnumberofstops(1000, "", "2 weeks");
+
+            //assert
+            Assert.AreEqual(-1, nbstops);
+        }
+
+        [TestMethod]
+        public void testnumberstops_unknownspeedunknownconsumables()
+        {
+            //act
+            int nbstops = cal.getnumberofstops(1000, "unknown", "unknown");
+
+            //assert
+            Assert.AreEqual(-2000, nbstops);
+        }
+
+        [TestMethod]
+        public void testnumberstops_1000distance400speed2weeksconsumables()
+        {
+            //act
+            int nbstops = cal.getnumberofstops(1000, "400", "2 weeks");
+
+            //assert
+            Assert.AreEqual(0, nbstops);
+        }
+
+        [TestMethod]
+        public void testnumberstops_2000distance40speed1hourconsumables()
+        {
+            //act
+            int nbstops = cal.getnumberofstops(2000, "40", "1 hour");
+
+            //assert
+            Assert.AreEqual(50, nbstops);
+        }
+
+        [TestMethod]
+        public void testnumberstops_200distance40speed10hoursconsumables()
+        {
+            //act
+            int nbstops = cal.getnumberofstops(200, "40", "10 hours");
+
+            //assert
+            Assert.AreEqual(0, nbstops);
         }
     }
 }
